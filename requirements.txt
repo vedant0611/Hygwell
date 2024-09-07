@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+sqlite-utils
+pdfminer.six
+beautifulsoup4
+requests
+transformers
+sentence-transformers
+scikit-learn
+numpy
